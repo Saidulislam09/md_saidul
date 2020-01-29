@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 247, 243);
+}
+
+.categhory {
+    background-color: #26262B;
+    height: 550px;
+    color: #E6EBF4;
+    overflow-y: scroll;
+    float: left;
+}
+
+.categhory ul li a {
+    color: #9E9EA1;
+}
+
+.box {
+    background-color: #E6EBF4;
+    height: 550px;
+}
+
+.card1 {
+    justify-content: center;
+    text-align: center;
+    height: 270px;
+    background-color: #353744;
+    color: whitesmoke;
+}
